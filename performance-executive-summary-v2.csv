@@ -2,20 +2,20 @@
 ,"Mon, Feb 02, 2026",,,
 ,,,,
 ,#1 PRIORITY: ERROR CONTROL,,,
-,Target This Game:,< 3.0,Your Current Avg:,3.03
-,Last 5 Games:,2.667,Last 10 Games:,2.944
-,Progress to Goal (12.75 ?? 3),,0.762,
-,Status:,,? KEEP PUSHING,
+,Target This Game:,< 3.0,Your Current Avg:,2.8857142857142857
+,Last 5 Games:,3,Last 10 Games:,3
+,Progress to Goal (12.75 ?? 3),,0.774,
+,Status:,,? ON TRACK,
 ,,,,
 ,#2 WATCH OUT: TOP 2 KILLER ERRORS,,,
 ,?? LONG ERRORS,,,
-,Current Rate:,0.75/game,Goal:,0.60/game
+,Current Rate:,0.71/game,Goal:,0.60/game
 ,FIX: PUNCH vs BRUSH,,,
 ,"? Dinks/Drops/Resets = PUNCH (push, no spin)",,,
 ,? Drives/Attacks = BRUSH (topspin),,,
 ,,,,
 ,?? NET ERRORS,,,
-,Current Rate:,0.77/game,Goal:,0.60/game
+,Current Rate:,0.73/game,Goal:,0.60/game
 ,"FIX: Contact point FRONT, face OPEN, 6"" clearance",,,
 ,Combined Impact:,50.17% of ALL errors,,
 ,,,,
@@ -25,10 +25,10 @@
 ,,,,
 ,SHOT BALANCE GOALS:,,,
 ,,Actual,Goal,Status
-,? Drop Attempts per game,7.290046021628572,9.651399999999997,Needs Adjustment
-,? Dink Attempts per game,8.605209420471427,10.967499999999996,Needs Adjustment
-,? Volley Attempts per game,11.928947490142855,10.528799999999995,Close
-,? Reset Attempts per game,1.3042642994,2.193499999999999,Close
+,? Drop Attempts per game,6.942900972979592,9.191809523809521,Needs Adjustment
+,? Dink Attempts per game,8.19543754330612,10.445238095238091,Needs Adjustment
+,? Volley Attempts per game,11.360902371564624,10.027428571428565,Close
+,? Reset Attempts per game,1.2421564756190475,2.0890476190476184,Close
 ,,,,
 ,? Drive:Drop Ratio,1.39,0.83,Major Gap
 ,? Drive:Dink Ratio,1.18,0.82,Major Gap
@@ -39,7 +39,7 @@
 ,? CONFIDENCE BOOST,,,
 ,,,,
 ,,Best Game:,0 errors!,
-,,Error Reduction Progress:,0.762,
+,,Error Reduction Progress:,0.774,
 ,,Reset Development:,130.43 attempts and growing,
 ,,,,
 ,? GO DOMINATE! ?,,,
